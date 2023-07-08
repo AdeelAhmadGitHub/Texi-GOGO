@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034416295822",
+    "project_id": "taxigogo-e6268",
+    "storage_bucket": "taxigogo-e6268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034416295822:android:3a41600b2c54b6be3e9edf",
+        "android_client_info": {
+          "package_name": "com.highApp.taxi_gogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034416295822-rjf107oj3kd5cabrp645ud7i4ivllgv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highApp.taxi_gogo",
+            "certificate_hash": "e36c4deee43687e9929328316cf39ee0fe4c32f5"
+          }
+        },
+        {
+          "client_id": "1034416295822-mmhjl8v8mroe6ou51l4tchss3as8q38h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcK39Gh7mwIFN328uBeP4iKavR8grAsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034416295822-mmhjl8v8mroe6ou51l4tchss3as8q38h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
